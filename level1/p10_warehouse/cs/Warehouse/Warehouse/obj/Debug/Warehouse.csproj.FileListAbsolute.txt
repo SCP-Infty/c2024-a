@@ -1,0 +1,10 @@
+C:\.F\workplace\git\c2024-a\level1\p10_warehouse\cs\Warehouse\Warehouse\bin\Debug\Warehouse.exe.config
+C:\.F\workplace\git\c2024-a\level1\p10_warehouse\cs\Warehouse\Warehouse\bin\Debug\Warehouse.exe
+C:\.F\workplace\git\c2024-a\level1\p10_warehouse\cs\Warehouse\Warehouse\bin\Debug\Warehouse.pdb
+C:\.F\workplace\git\c2024-a\level1\p10_warehouse\cs\Warehouse\Warehouse\obj\Debug\Warehouse.csproj.AssemblyReference.cache
+C:\.F\workplace\git\c2024-a\level1\p10_warehouse\cs\Warehouse\Warehouse\obj\Debug\Warehouse.Form1.resources
+C:\.F\workplace\git\c2024-a\level1\p10_warehouse\cs\Warehouse\Warehouse\obj\Debug\Warehouse.Properties.Resources.resources
+C:\.F\workplace\git\c2024-a\level1\p10_warehouse\cs\Warehouse\Warehouse\obj\Debug\Warehouse.csproj.GenerateResource.cache
+C:\.F\workplace\git\c2024-a\level1\p10_warehouse\cs\Warehouse\Warehouse\obj\Debug\Warehouse.csproj.CoreCompileInputs.cache
+C:\.F\workplace\git\c2024-a\level1\p10_warehouse\cs\Warehouse\Warehouse\obj\Debug\Warehouse.exe
+C:\.F\workplace\git\c2024-a\level1\p10_warehouse\cs\Warehouse\Warehouse\obj\Debug\Warehouse.pdb
