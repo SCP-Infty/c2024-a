@@ -5,7 +5,7 @@
 bool isPrime(int);
 
 int main() {
-    for (int i = 2; i <= 1000; i++) {
+    for (int i = 2; i <= 100; i++) {
         if (isPrime(i)) {
             std::cout << i << "\n" ;
         }

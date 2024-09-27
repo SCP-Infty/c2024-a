@@ -42,6 +42,7 @@
             this.warehouseItems.Location = new System.Drawing.Point(50, 50);
             this.warehouseItems.Name = "warehouseItems";
             this.warehouseItems.Size = new System.Drawing.Size(121, 97);
+            this.warehouseItems.Sorting = System.Windows.Forms.SortOrder.Ascending;
             this.warehouseItems.TabIndex = 0;
             this.warehouseItems.UseCompatibleStateImageBehavior = false;
             // 
@@ -54,7 +55,6 @@
             this.addItem.TabIndex = 1;
             this.addItem.Text = "入库";
             this.addItem.UseVisualStyleBackColor = true;
-            this.addItem.Click += new System.EventHandler(this.addItem_Click);
             // 
             // removeItem
             // 
@@ -104,7 +104,7 @@
 
         #endregion
 
-        private System.Windows.Forms.ListView warehouseItems;
+        internal System.Windows.Forms.ListView warehouseItems;
         private System.Windows.Forms.Button addItem;
         private System.Windows.Forms.Button removeItem;
         private System.Windows.Forms.Button merge;
