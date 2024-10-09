@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\.F\\workplace\\git\\c2024-a\\level1\\p10_warehouse\\cpp\\main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98E8609C-9219-496E-BB9B-F3145FB9A427}|main\\main.vcxproj|C:\\.F\\workplace\\git\\c2024-a\\level1\\p10_warehouse\\cpp\\main\\main\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98E8609C-9219-496E-BB9B-F3145FB9A427}|main\\main.vcxproj|solutionrelative:main\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\.F\\workplace\\git\\c2024-a\\level1\\p10_warehouse\\cpp\\main\\main\\main.cpp",
+              "RelativeDocumentMoniker": "main\\main.cpp",
+              "ToolTip": "C:\\.F\\workplace\\git\\c2024-a\\level1\\p10_warehouse\\cpp\\main\\main\\main.cpp",
+              "RelativeToolTip": "main\\main.cpp",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAGoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-29T23:32:22.406Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

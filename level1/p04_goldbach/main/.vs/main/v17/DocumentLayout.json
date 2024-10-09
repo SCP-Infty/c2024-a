@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\.F\\workplace\\git\\c2024-a\\level1\\p04_goldbach\\main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75709B40-2066-4C2B-A2D6-817A4B1591F2}|main\\main.vcxproj|C:\\.F\\workplace\\git\\c2024-a\\level1\\p04_goldbach\\main\\main\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75709B40-2066-4C2B-A2D6-817A4B1591F2}|main\\main.vcxproj|solutionrelative:main\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\.F\\workplace\\git\\c2024-a\\level1\\p04_goldbach\\main\\main\\main.cpp",
+              "RelativeDocumentMoniker": "main\\main.cpp",
+              "ToolTip": "C:\\.F\\workplace\\git\\c2024-a\\level1\\p04_goldbach\\main\\main\\main.cpp",
+              "RelativeToolTip": "main\\main.cpp",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAADEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-06T14:25:37.546Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
