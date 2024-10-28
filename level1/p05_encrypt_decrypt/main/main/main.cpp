@@ -77,7 +77,7 @@ std::string decrypt(std::string cipher)
 
 int main()
 {
-	std::string text = "Top secret: 1 + 1 = 2.";
+	std::string text = "Top secret: 1 + 1 = 2.";  // ASCII Only.
 	std::string cipher = encrypt(text);
 	std::cout << "Ã÷ÎÄ£º" << text << "\n\n";
 	std::cout << "ÃÜÎÄ£º" << cipher << "\n\n";
